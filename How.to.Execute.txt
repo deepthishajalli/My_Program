@@ -1,0 +1,36 @@
+Procedure to run the program:
+
+
+1.Read a file named "File.txt".(pass this as argument while executing the code)
+
+example: java Section File.txt
+  
+
+
+2.Output is displayed as follows:
+
+CATEGORY       COUNT
+
+PERSON          2
+PLACE           2
+ANIMAL          2
+COMPUTER        1
+OTHER           1
+
+Information present in the file:
+
+PEROSON  Bob Jones
+
+PLACE    Washington
+
+PERSON    Mary
+
+COMPUTER  MAC
+
+OTHER     Tree
+
+ANIMAL    Dog
+
+PLACE     Texas
+
+ANIMAL    Cat
